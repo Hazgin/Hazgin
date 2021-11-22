@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hazgin! I'm an university student from Brazil. I love movies, computer science, cooking, gardening, reading and learning new things.
+- 👋 Hi, I’m @Hazgin! I'm an university student from Brazil. I love movies, computer science, cooking, RPGs, reading and learning new things.
 - 👀 I’m interested in ... Learning how to code for fun and profit.
 - 🌱 I’m currently learning ... Javascript, HTML, CSS, PHP. I plan to also learn SQL, Python, Java and C#.
 - 💞️ I’m looking to collaborate on ... Any projects where I can practice my Skills.
